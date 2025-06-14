@@ -1,0 +1,12 @@
+D:\L2\C#\Boost\BoostC# CRUD\BoostC# CRUD\obj\Debug\BoostC# CRUD.csproj.AssemblyReference.cache
+D:\L2\C#\Boost\BoostC# CRUD\BoostC# CRUD\obj\Debug\BoostC__CRUD.Properties.Resources.resources
+D:\L2\C#\Boost\BoostC# CRUD\BoostC# CRUD\obj\Debug\BoostC# CRUD.csproj.GenerateResource.cache
+D:\L2\C#\Boost\BoostC# CRUD\BoostC# CRUD\obj\Debug\BoostC# CRUD.csproj.CoreCompileInputs.cache
+D:\L2\C#\Boost\BoostC# CRUD\BoostC# CRUD\bin\Debug\CrudPersonne.mdf
+D:\L2\C#\Boost\BoostC# CRUD\BoostC# CRUD\bin\Debug\CrudPersonne_log.ldf
+D:\L2\C#\Boost\BoostC# CRUD\BoostC# CRUD\bin\Debug\BoostC# CRUD.exe.config
+D:\L2\C#\Boost\BoostC# CRUD\BoostC# CRUD\bin\Debug\BoostC# CRUD.exe
+D:\L2\C#\Boost\BoostC# CRUD\BoostC# CRUD\bin\Debug\BoostC# CRUD.pdb
+D:\L2\C#\Boost\BoostC# CRUD\BoostC# CRUD\obj\Debug\BoostC# CRUD.exe
+D:\L2\C#\Boost\BoostC# CRUD\BoostC# CRUD\obj\Debug\BoostC# CRUD.pdb
+D:\L2\C#\Boost\BoostC# CRUD\BoostC# CRUD\obj\Debug\BoostC__CRUD.Form1.resources
